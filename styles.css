@@ -21,7 +21,6 @@
 body {
 	font-family: 'Josefin Sans', sans-serif; /*300,400,600*/
 	font-size: 16px;
-	background: url(./images/bg-pattern-desktop.svg);
 }
 
 .wrapper {
@@ -29,6 +28,7 @@ body {
 	min-width: 375px;
 	overflow: auto;
 	margin: auto;
+	background: url(./images/bg-pattern-desktop.svg) 0 0 / 70%;
 }
 
 /* HEADER */
